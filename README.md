@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alinux86
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning Python, HTML, CSS, Javascript
+- 👀 I’m interested in software development and it's hard but fun.
+- 🌱 I’m currently learning design patterns and use java for it.
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
